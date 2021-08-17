@@ -1,5 +1,19 @@
 /* nav */
 
+.btn-top{
+	position: fixed;
+	z-index: 999;
+	top: 630px;
+	left: 1450px;
+}
+.btn-top:hover{
+	background-color: #000000;
+}
+
+html {
+	scroll-behavior: smooth;
+  }
+
 .navbar{
 	filter: drop-shadow(0.15rem 0.15rem 0.4rem rgba(0, 0, 0, 0.5));
 }
