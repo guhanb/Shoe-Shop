@@ -3,8 +3,8 @@
 .btn-top{
 	position: fixed;
 	z-index: 999;
-	top: 630px;
-	left: 1450px;
+	top: 720px;
+	left: 1615px;
 }
 .btn-top:hover{
 	background-color: #000000;
